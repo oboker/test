@@ -10,3 +10,7 @@ second <- function(x) {
 third <- function(x) {
   x
 }
+
+forth <- function(x) {
+  x
+}
